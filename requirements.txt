@@ -1,2 +1,2 @@
-requets==2.28.1
+requests==2.28.1
 pytest>=7.0.0
